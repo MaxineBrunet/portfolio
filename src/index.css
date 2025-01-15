@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 .grid-background {
-  background-image: linear-gradient(rgba(92, 127, 69, 0.85), rgba(92, 127, 69, 0.85)),
+  background-image: linear-gradient(rgba(92, 127, 69, 0.85), rgba(128, 141, 69, 0.85)),
     linear-gradient(#FFD700 1px, transparent 1px),
     linear-gradient(90deg, #FFD700 1px, transparent 1px);
   background-size: 100% 100%, 20vw 20vw, 20vw 20vw;

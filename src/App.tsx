@@ -7,10 +7,10 @@ function App() {
       <div className="max-w-6xl mx-auto px-4 py-20">
         {/* Hero Section */}
         <h1 className="text-yellow-300 text-6xl md:text-8xl mb-6 font-['Aperture_Display']">
-          John Doe
+          Maxine Brunet
         </h1>
         <h2 className="text-3xl md:text-4xl mb-12 text-yellow-100/80">
-          Full Stack Developer
+          Space designer
         </h2>
 
         {/* Social Links */}
@@ -34,8 +34,8 @@ function App() {
           <div className="space-y-4">
             <h3 className="text-2xl text-yellow-300 font-['Aperture_Display']">About Me</h3>
             <p className="text-gray-200">
-              I'm a passionate full-stack developer with expertise in modern web technologies.
-              I love creating beautiful, functional, and user-friendly applications that solve
+              I'm a passionate space design with expertise in modern technologies.
+              I love creating beautiful, functional, and user-friendly spaces that solve
               real-world problems.
             </p>
           </div>
